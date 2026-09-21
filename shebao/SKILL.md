@@ -1,5 +1,5 @@
 ﻿---
-name: write-shebao-minsheng-articles
+name: shebao
 description: 社保、民生、退休和养老金领域自媒体文章写作。参考用户范文的口语叙述与个人算账方式，先核实政策，再写适合中老年读者的原创文章。
 ---
 

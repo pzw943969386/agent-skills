@@ -1,5 +1,5 @@
 ---
-name: write-yangsheng-health-articles
+name: yangsheng
 description: 撰写或修改养生健康类公众号文章，默认正文 800—1000 字，适用于反常识辨析、食材定量、节气起居和人群分层选题。采用结论前置、口语讲解和具体行动建议的写法，并核查健康论断与数字来源。默认只交付正文。不用于以症状预测寿命的恐吓式文章或个人诊疗。
 metadata:
   agent_created: "true"
